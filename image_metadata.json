@@ -1,0 +1,156 @@
+{
+  "yeast_only_1.tif": {
+    "raw_shape": [
+      512,
+      512,
+      3
+    ],
+    "shape_cyx": [
+      3,
+      512,
+      512
+    ],
+    "red_channel_index": 0,
+    "green_channel_index": 1
+  },
+  "yeast_only_2.tif": {
+    "raw_shape": [
+      512,
+      512,
+      3
+    ],
+    "shape_cyx": [
+      3,
+      512,
+      512
+    ],
+    "red_channel_index": 0,
+    "green_channel_index": 1
+  },
+  "yeast_only_3.tif": {
+    "raw_shape": [
+      512,
+      512,
+      3
+    ],
+    "shape_cyx": [
+      3,
+      512,
+      512
+    ],
+    "red_channel_index": 0,
+    "green_channel_index": 1
+  },
+  "cyano_only_1.tif": {
+    "raw_shape": [
+      512,
+      512,
+      3
+    ],
+    "shape_cyx": [
+      3,
+      512,
+      512
+    ],
+    "red_channel_index": 0,
+    "green_channel_index": 1
+  },
+  "cyano_only_2.tif": {
+    "raw_shape": [
+      3,
+      512,
+      512
+    ],
+    "shape_cyx": [
+      3,
+      512,
+      512
+    ],
+    "red_channel_index": 0,
+    "green_channel_index": 1
+  },
+  "cyano_only_3.tif": {
+    "raw_shape": [
+      512,
+      512,
+      3
+    ],
+    "shape_cyx": [
+      3,
+      512,
+      512
+    ],
+    "red_channel_index": 0,
+    "green_channel_index": 1
+  },
+  "yeast_cyano_1.czi": {
+    "raw_shape": [
+      2,
+      512,
+      512
+    ],
+    "shape_cyx": [
+      2,
+      512,
+      512
+    ],
+    "red_channel_index": 0,
+    "green_channel_index": 1
+  },
+  "yeast_cyano_2.czi": {
+    "raw_shape": [
+      2,
+      512,
+      512
+    ],
+    "shape_cyx": [
+      2,
+      512,
+      512
+    ],
+    "red_channel_index": 0,
+    "green_channel_index": 1
+  },
+  "yeast_cyano_3.czi": {
+    "raw_shape": [
+      2,
+      512,
+      512
+    ],
+    "shape_cyx": [
+      2,
+      512,
+      512
+    ],
+    "red_channel_index": 0,
+    "green_channel_index": 1
+  },
+  "yeast_cyano_4.czi": {
+    "raw_shape": [
+      2,
+      512,
+      512
+    ],
+    "shape_cyx": [
+      2,
+      512,
+      512
+    ],
+    "red_channel_index": 0,
+    "green_channel_index": 1
+  },
+  "yeast_cyano_5.czi": {
+    "raw_shape": [
+      2,
+      512,
+      512
+    ],
+    "shape_cyx": [
+      2,
+      512,
+      512
+    ],
+    "red_channel_index": 0,
+    "green_channel_index": 1
+  }
+}

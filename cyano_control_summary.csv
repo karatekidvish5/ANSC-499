@@ -1,0 +1,4 @@
+image,image_type,analyzable,note,red_object_count,red_object_total_area_px,red_object_mean_area_px,red_object_median_area_px,green_channel_mean,green_channel_p99,green_channel_max,mean_green_inside_red_objects,red_object_threshold
+cyano_only_1.tif,cyano_only,True,,72,4675,64.93055555555556,37.0,0.0,0.0,0.0,0.0,9.040293493929111
+cyano_only_2.tif,cyano_only,True,,54,10113,187.27777777777777,156.0,2.204906463623047,9.0,83.0,4.9299911005636305,28.666518791688965
+cyano_only_3.tif,cyano_only,True,,48,2185,45.520833333333336,14.0,0.0,0.0,0.0,0.0,31.319148439074596

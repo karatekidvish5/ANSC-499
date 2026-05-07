@@ -1,0 +1,6 @@
+Image,Manual yeast count,Otsu yeast count,Watershed yeast count,Manual red-positive yeast count,Otsu red-positive,Watershed red-positive
+yeast_cyano_1.czi,,23,34,,9,11
+yeast_cyano_2.czi,,20,29,,12,16
+yeast_cyano_3.czi,,23,34,,16,19
+yeast_cyano_4.czi,,12,28,,12,23
+yeast_cyano_5.czi,,98,203,,44,65

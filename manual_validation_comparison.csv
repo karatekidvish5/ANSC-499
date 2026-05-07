@@ -1,0 +1,6 @@
+Image,Manual yeast count,Otsu yeast count,Watershed yeast count,Manual red-positive yeast count,Otsu red-positive,Watershed red-positive,Otsu yeast absolute error,Watershed yeast absolute error,Otsu red-positive absolute error,Watershed red-positive absolute error,Watershed lower yeast-count error,Watershed lower red-positive error
+yeast_cyano_1.czi,,23,34,,9,11,,,,,False,False
+yeast_cyano_2.czi,,20,29,,12,16,,,,,False,False
+yeast_cyano_3.czi,,23,34,,16,19,,,,,False,False
+yeast_cyano_4.czi,,12,28,,12,23,,,,,False,False
+yeast_cyano_5.czi,,98,203,,44,65,,,,,False,False

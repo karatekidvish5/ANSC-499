@@ -1,0 +1,2 @@
+red_positive_threshold,threshold_note,control_cell_count,control_sigma_multiplier,control_quantile,red_positive_floor,min_red_overlap_pixels
+1.0,"max(mean + 3 SD, 0.99 quantile, floor)",110,3.0,0.99,1.0,5
